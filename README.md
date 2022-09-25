@@ -13,4 +13,3 @@
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV0307&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/ABHINAV0307/ABHINAV0307/blob/output/github-contribution-grid-snake.svg)
