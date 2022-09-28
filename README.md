@@ -16,10 +16,14 @@
 
 ## 📊 My GitHub Stats
 
- <a href="https://github.com/pran20/github-readme-stats"><img alt="Pranit Puri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<p align="center">
+<a href="https://github.com/pran20/github-readme-stats"><img alt="Pranit Puri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
 
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV0307&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <a href="https://github.com/pran20/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ABHINAV0307&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
