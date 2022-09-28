@@ -8,8 +8,13 @@
 <br> 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; My Streak
 
+<p align="center">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhinav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV0307&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+## 📊 My GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV0307&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
