@@ -1,4 +1,4 @@
-# Hey there <span class="wave">👋</span>
+# Hey there 👋
 #### -🔭 I’m currently working on Machine Learning Projects
 #### -🌱 I’m currently learning intergration of ML with AR
 #### -👯 I’m looking to collaborate on AR projects
