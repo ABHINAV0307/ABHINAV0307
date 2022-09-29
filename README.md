@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there <span class="wave">👋</span>
 #### -🔭 I’m currently working on Machine Learning Projects
 #### -🌱 I’m currently learning intergration of ML with AR
 #### -👯 I’m looking to collaborate on AR projects
@@ -17,7 +17,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/pran20/github-readme-stats"><img alt="Pranit Puri Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/pran20/github-readme-stats"><img alt="Abhinav Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 
