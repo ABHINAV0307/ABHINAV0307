@@ -1,5 +1,5 @@
 # Hey there 👋
-#### -🔭 I’m currently working on Machine Learning Projects
+#### -🔭 I’m currently working on Machine Learning Projects related to Object detection
 #### -🌱 I’m currently learning intergration of ML with AR
 #### -👯 I’m looking to collaborate on AR projects
 #### -⚡ Fun fact: Tea over coffee
@@ -23,7 +23,7 @@
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV0307&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/pran20/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ABHINAV0307&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ABHINAV0307/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ABHINAV0307&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ABHINAV0307">
