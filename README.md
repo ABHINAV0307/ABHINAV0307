@@ -1,4 +1,6 @@
-# Hey there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+small+World⚛️)](https://git.io/typing-svg)
+
 #### -🔭 I’m currently working on Machine Learning Projects related to Object detection
 #### -🌱 I’m currently learning intergration of ML with AR
 #### -👯 I’m looking to collaborate on AR/VR projects
@@ -16,11 +18,10 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://github.com/ABHINAV0307/github-readme-stats"><img alt="Abhinav Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ABHINAV0307&count_private=true&include_all_commits=true&theme=tokyonight" alt="Abhinav's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&layout=compact&theme=tokyonight" alt="Abhinav's top language stats" />
 </p>
 
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABHINAV0307&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/ABHINAV0307/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ABHINAV0307&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
