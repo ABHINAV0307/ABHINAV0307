@@ -3,7 +3,7 @@
 
 <a href="https://github.com/ABHINAV0307"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science;Learning+Java+%26+Brushing+up+Data+Structure+%26+algorithm.." /></a>
 
-#### -🔭 I’m currently working on Machine Learning Projects related to Object detection
+#### -🔭 I’m currently working on Machine Learning Projects 
 #### -🌱 I’m currently learning intergration of ML with AR
 #### -👯 I’m looking to collaborate on Satellite Image processing projects
 #### -⚡ Fun fact: Tea over coffee
