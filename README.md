@@ -17,12 +17,12 @@
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhinav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV0307&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My GitHub Stats
+<!-- ## 📊 My GitHub Stats
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=ABHINAV0307&count_private=true&include_all_commits=true&theme=tokyonight" alt="Abhinav's stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINAV0307&layout=compact&theme=tokyonight" alt="Abhinav's top language stats" />
-</p>
+</p> -->
 
 
 
