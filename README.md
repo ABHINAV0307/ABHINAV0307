@@ -25,8 +25,8 @@
 </p> -->
 
 
+[![Abhinav activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abhinav0307)](https://github.com/abhinav0307/github-readme-activity-graph)
 
-<a href="https://github.com/ABHINAV0307/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ABHINAV0307&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ABHINAV0307">
