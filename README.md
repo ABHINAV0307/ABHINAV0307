@@ -25,5 +25,7 @@
 
 <a href="https://github.com/abhinav0307/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ABHINAV0307">
-
+<!--
 ![Snake animation](https://github.com/ABHINAV0307/ABHINAV0307/blob/output/github-contribution-grid-snake.svg)
+-->
+    
