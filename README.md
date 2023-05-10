@@ -27,7 +27,7 @@
 
 
 
-<!--
+
 ![Snake animation](https://github.com/ABHINAV0307/ABHINAV0307/blob/output/github-contribution-grid-snake.svg)
--->
+
     
