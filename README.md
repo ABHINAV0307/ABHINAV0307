@@ -5,7 +5,7 @@
 
 #### -🔭 On my GitHub page, you can find a collection of projects I have worked on. These projects range from [web development to machine learning] and are a great representation of my skills and interests.
 #### -🌱 I’m currently learning integration of ML with AR
-#### -👯 I’m looking to collaborate on Satellite Image processing projects
+#### -👯 I’m looking to collaborate on Satellite Image processing project
 #### -⚡ Fun fact: Tea over coffee
 
 #### We can connect over     [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhinav-tripathi-8815b0211)
