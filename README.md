@@ -14,9 +14,12 @@
 <a href="https://discord.gg/abhinav2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ABHI#4542" height="30" width="40" /></a>
 </p>
 
-## &#x1f4c8; My Streak
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" align="right" alt="Abhinav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV0307&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+## &#x1f4c8; My Stats
 
 ![ 📊 My GitHub Stats and Streak](https://github-readme-stats.vercel.app/api?username=abhinav0307&show_icons=true&theme=tokyonight)
+
+## &#x1f4c8; My Streak
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" align="left" alt="Abhinav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV0307&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+
 
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav0307&theme=dracula)](https://github.com/abhinav0307/github-readme-activity-graph)
