@@ -2,7 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+small+World⚛️)](https://git.io/typing-svg)
 <a href="https://github.com/ABHINAV0307"><img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=900&height=40&lines=Pursuing+B.Tech+in+Computer+Science;Learning+Java+%26+Brushing+up+Data+Structure+%26+algorithm.." /></a>
 
+
+
 #### On my GitHub page, you can find a collection of projects I have worked on which include basic coding to complex machine learning algorithms.
+
+
+[![Github views](https://komarev.com/ghpvc/?username=abhinav0307&style=flat-square&color=green)](https://github.com/abhinav0307)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,12 +20,23 @@
 <a href="https://discord.gg/abhinav2501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ABHI#4542" height="30" width="40" /></a>
 </p>
 
+
 ## &#x1f4c8; My Stats
+<a href="https://github.com/abhinav0307">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinav0307&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
+</a>
+<a href="https://github.com/abhinav0307">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhinav0307&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
+</a>
 
-![ 📊 My GitHub Stats and Streak](https://github-readme-stats.vercel.app/api?username=abhinav0307&show_icons=true&theme=tokyonight)
+<div align="center">
 
-## &#x1f4c8; My Streak
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" align="left" alt="Abhinav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINAV0307&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abhinav0307&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+    
+</div>
 
+<div align="center">
+
+[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=abhinav0307&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/abhinav0307)
 
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav0307&theme=dracula)](https://github.com/abhinav0307/github-readme-activity-graph)
