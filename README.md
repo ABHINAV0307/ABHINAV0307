@@ -34,8 +34,5 @@
     
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://github-profile-trophy.vercel.app/?username=abhinav0307&margin-w=15&theme=darkhub&no-frame=true&no-bg=true)](https://github.com/abhinav0307)
 
 [![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav0307&theme=dracula)](https://github.com/abhinav0307/github-readme-activity-graph)
