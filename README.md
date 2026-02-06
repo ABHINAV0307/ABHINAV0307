@@ -21,18 +21,6 @@
 </p>
 
 
-## &#x1f4c8; My Stats
-<a href="https://github.com/abhinav0307">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhinav0307&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" width="51%" />
-</a>
-<a href="https://github.com/abhinav0307">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhinav0307&theme=chartreuse-dark&layout=compact&hide_border=true" width="43%" />
-</a>
 
-<div align="center">
+![why-waste-time-when-few-word-do-trick](https://raw.githubusercontent.com/ABHINAV0307/ABHINAV0307/main/why-waste-time-when-few-word-do-trick.gif)
 
-    
-</div>
-
-
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinav0307&theme=dracula)](https://github.com/abhinav0307/github-readme-activity-graph)
