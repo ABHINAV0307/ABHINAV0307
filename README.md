@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+small+World⚛️)](https://git.io/typing-svg)
 <a href="https://github.com/ABHINAV0307">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=1000&height=40&lines=Assistant+System+Engineer+%40+Mamsys;Flutter+Developer+%7C+Angular+%7C+Node.js;Building+Scalable+Mobile+%26+Web+Applications;Learning+DSA+with+Java+%26+System+Design;Exploring+AI+%26+Backend+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=E30B5C&width=1000&height=40&lines=Assistant+System+Engineer;Flutter+Developer+%7C+Angular+%7C+Node.js;Building+Scalable+Mobile+%26+Web+Applications;Learning+DSA+with+Java+%26+System+Design;Exploring+AI+%26+Backend+Technologies" />
 </a>
 
 
